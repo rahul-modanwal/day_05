@@ -30,6 +30,21 @@ const quizData = [
         c: "1994",
         d: "none of the above",
         correct: "b",
+    },{
+        question: "What is your Goal for 2021 ?",
+        a: "Become Great Developer ",
+        b: "Become manager ",
+        c: "Become Teacher ",
+        d: "Become writer",
+        correct: "a",
+    },
+    {
+        question: "What is your major skill ?",
+        a: "django",
+        b: "react",
+        c: "both",
+        d: "none of the above",
+        correct: "c",
     },
 ];
 
